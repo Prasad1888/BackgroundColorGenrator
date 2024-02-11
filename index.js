@@ -25,4 +25,3 @@ let callToChangeColor = function () {
 //adding event listener on clicking start btn
 startbtn.addEventListener('click', callToChangeColor)
 
-console.log(genrateBg())
